@@ -1,0 +1,42 @@
+=============== Dec 13, 2021 (CST) ===============
+20:43:59.618515 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:43:59.621506 db@open opening
+20:43:59.622505 version@stat F·[] S·0B[] Sc·[]
+20:43:59.624539 db@janitor F·2 G·0
+20:43:59.624539 db@open done T·3.0338ms
+20:43:59.633499 db@close closing
+20:43:59.633499 db@close done T·0s
+=============== Dec 13, 2021 (CST) ===============
+20:52:49.479734 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:52:49.479734 version@stat F·[] S·0B[] Sc·[]
+20:52:49.479734 db@open opening
+20:52:49.480731 journal@recovery F·1
+20:52:49.485760 journal@recovery recovering @1
+20:52:49.492051 memdb@flush created L0@2 N·15 S·1024B "Hqk..]F\xde,v8":"С)..p\x05c,v4"
+20:52:49.496070 version@stat F·[1] S·1024B[1024B] Sc·[0.25]
+20:52:49.503047 db@janitor F·3 G·0
+20:52:49.503047 db@open done T·23.3132ms
+=============== Dec 13, 2021 (CST) ===============
+20:57:49.511163 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:57:49.512169 version@stat F·[1] S·1024B[1024B] Sc·[0.25]
+20:57:49.512169 db@open opening
+20:57:49.512169 journal@recovery F·1
+20:57:49.518116 journal@recovery recovering @3
+20:57:49.525143 memdb@flush created L0@5 N·3 S·497B "Dat..ion,v17":"cli..]F\xde,v19"
+20:57:49.529133 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+20:57:49.535121 db@janitor F·4 G·0
+20:57:49.535121 db@open done T·22.9524ms
+21:36:45.271362 db@close closing
+21:36:45.272360 db@close done T·997.5µs
+=============== Dec 13, 2021 (CST) ===============
+21:38:44.583584 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:38:44.584580 version@stat F·[2] S·1KiB[1KiB] Sc·[0.50]
+21:38:44.584580 db@open opening
+21:38:44.584580 journal@recovery F·1
+21:38:44.589604 journal@recovery recovering @6
+21:38:44.596555 memdb@flush created L0@8 N·10 S·643B "HMZ..\x00\xa6),v24":"r\x00\x00..\x00\xa6),v26"
+21:38:44.601581 version@stat F·[3] S·2KiB[2KiB] Sc·[0.75]
+21:38:44.606529 db@janitor F·5 G·0
+21:38:44.606529 db@open done T·21.9481ms
+21:48:41.234096 db@close closing
+21:48:41.234096 db@close done T·0s

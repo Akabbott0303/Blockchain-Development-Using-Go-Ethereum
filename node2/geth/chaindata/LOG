@@ -1,0 +1,32 @@
+=============== Dec 13, 2021 (CST) ===============
+20:44:38.736554 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:44:38.740543 db@open opening
+20:44:38.741535 version@stat F·[] S·0B[] Sc·[]
+20:44:38.743723 db@janitor F·2 G·0
+20:44:38.743723 db@open done T·3.1808ms
+20:44:38.750705 db@close closing
+20:44:38.751706 db@close done T·1.0007ms
+=============== Dec 13, 2021 (CST) ===============
+21:03:50.358711 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:03:50.358711 version@stat F·[] S·0B[] Sc·[]
+21:03:50.358711 db@open opening
+21:03:50.359680 journal@recovery F·1
+21:03:50.383473 journal@recovery recovering @1
+21:03:50.385468 memdb@flush created L0@2 N·15 S·1024B "Hqk..]F\xde,v8":"С)..p\x05c,v4"
+21:03:50.391454 version@stat F·[1] S·1024B[1024B] Sc·[0.25]
+21:03:50.396439 db@janitor F·3 G·0
+21:03:50.396439 db@open done T·37.7281ms
+21:36:55.471500 db@close closing
+21:36:55.471500 db@close done T·0s
+=============== Dec 13, 2021 (CST) ===============
+21:41:07.971309 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:41:07.972307 version@stat F·[1] S·1024B[1024B] Sc·[0.25]
+21:41:07.972307 db@open opening
+21:41:07.972307 journal@recovery F·1
+21:41:07.976330 journal@recovery recovering @3
+21:41:07.979295 memdb@flush created L0@5 N·24 S·1KiB "Dat..ion,v17":"r\x00\x00..[e\x13,v36"
+21:41:07.984314 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+21:41:07.990273 db@janitor F·4 G·0
+21:41:07.990273 db@open done T·17.9657ms
+21:48:35.066457 db@close closing
+21:48:35.067452 db@close done T·1.9952ms

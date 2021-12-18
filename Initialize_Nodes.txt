@@ -1,0 +1,7 @@
+Run Zbank nodes:
+
+Node1
+./geth --datadir node1 --unlock "0dCAF04C1128F0b6519B6DE5ef14AFe39a01E612" --mine --rpc --allow-insecure-unlock
+
+Node2
+./geth --datadir node2 --unlock "14a15DB65A2B50b34861e71e0eB8CA3fffC05d7f" --mine --port 30304 --bootnodes "enode://dbf453e4b109ac76d3ae2ff637db078aa0d2dc38a3a4e9c7d609623b253fedd386e5d905571ff67c8cdb2da39be107bbb37d5d4048ee278b8119cc384fd0c731@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
