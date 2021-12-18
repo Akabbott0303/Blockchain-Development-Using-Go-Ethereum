@@ -1,6 +1,6 @@
 # Project ZBlock
 
-Project ZBlock is ZBank's private blockchain that we'll use for testing and development to explore how we can use blockchain here at ZBank.  Our blockchain network has two nodes, each with its own address (public key).  The addresses are stored in the text file called [Node_Keys].  The nodes are essentially servers in the blockchain network that verify (mine) the transactions that occur on the blockchain.  If a transaction is deemed valid, it is accepted as a new block in the chain.
+Project ZBlock is ZBank's private blockchain that we'll use for testing and development to explore how we can use blockchain here at ZBank.  Our blockchain network has two nodes, each with its own address (public key).  The addresses are stored in the text file called [Node_Keys])(Node_Keys.txt).  The nodes are essentially servers in the blockchain network that verify (mine) the transactions that occur on the blockchain.  If a transaction is deemed valid, it is accepted as a new block in the chain.
 
 Transactions on the ZBank blockchain will be verified by a proof of authority consensus algorithm called Clique.  As a proof of authority type of consensus, Clique relies on trusted nodes (our blockchain nodes) to validate each block on the blockchain.  Each block will take approximately 15 seconds to complete once initiated.  The blockchain network ID is 333.  We'll need this ID to send transactions on the chain.  
 
