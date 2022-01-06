@@ -1,3 +1,5 @@
+Developer's note: this repository was created as a project for a fictional bank working to develop its own blockchain.
+
 # Project ZBlock
 
 Project ZBlock is the project name for the development of ZBank's private blockchain.  We'll use this blockchain for testing and development to explore how we can use blockchain here at ZBank.  Our blockchain network has two nodes, each with its own address (public key).  The addresses are stored in the text file called [Node_Keys](/Node_Keys.txt).  The nodes are essentially servers in the blockchain network that verify (mine) the transactions that occur on the blockchain.  If a transaction is deemed valid, it is accepted as a new block in the chain.
